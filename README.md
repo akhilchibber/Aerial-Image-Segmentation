@@ -1,4 +1,4 @@
-# Deep Learning based Semantic Segmentation of Aerial Imagery
+# Deep Learning based Aerial Image Segmentation
 <p align="center">
   <img src="https://github.com/akhilchibber/Semantic-Segmentation-Aerial-Imagery/blob/main/Semantic-Segmentation.png?raw=true" alt="earthml Logo">
 </p>
